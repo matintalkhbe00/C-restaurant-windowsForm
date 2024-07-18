@@ -19,8 +19,8 @@ This project is a C# application for order registration, food name registration,
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/username/restaurant-management.git
-    cd restaurant-management
+    git clone https://github.com/matintalkhbe00/C-restaurant-windowsForm.git
+    cd C-restaurant-windowsForm
     ```
 
 2. **Open the project in Visual Studio:**
@@ -40,3 +40,4 @@ This project is a C# application for order registration, food name registration,
 ## Contributing
 
 We welcome contributions! Please create an issue first to discuss any proposed changes before submitting a pull request.
+
